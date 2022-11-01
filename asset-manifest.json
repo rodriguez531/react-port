@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/'http://rodriguez531.github.io/ReactPort/static/css/main.19a6cd01.css",
+    "main.js": "/'http://rodriguez531.github.io/ReactPort/static/js/main.0462bec2.js",
+    "static/js/787.c559d518.chunk.js": "/'http://rodriguez531.github.io/ReactPort/static/js/787.c559d518.chunk.js",
+    "index.html": "/'http://rodriguez531.github.io/ReactPort/index.html",
+    "main.19a6cd01.css.map": "/'http://rodriguez531.github.io/ReactPort/static/css/main.19a6cd01.css.map",
+    "main.0462bec2.js.map": "/'http://rodriguez531.github.io/ReactPort/static/js/main.0462bec2.js.map",
+    "787.c559d518.chunk.js.map": "/'http://rodriguez531.github.io/ReactPort/static/js/787.c559d518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a6cd01.css",
+    "static/js/main.0462bec2.js"
+  ]
+}
